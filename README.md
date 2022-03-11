@@ -10,3 +10,5 @@ VueDevtools: https://github.com/vuejs/vue-devtools
 
 
 https://v2.tailwindcss.com/docs/installation
+
+npm install animate.css --save
